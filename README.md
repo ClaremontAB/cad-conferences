@@ -19,7 +19,7 @@ Anmälan: `Kontakta Oskar`<br>
 ### Nordic.JS
 > Nordic.js is a single track conference with talks by internationally renowned speakers and rising stars in the JavaScript community. You’ll hear about fun experiments, learn about the latest in JavaScript, and connect with other passionate developers.
 
-När: `Hösten 2019`<br>
+När: `10-11 okt 2019`<br>
 Var: `TBD`<br>
 Anmälan: `Kontakta Oskar`<br>
 ## Användargrupper och slack-kanaler
