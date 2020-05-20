@@ -1,4 +1,4 @@
-# CAD-conferences
+# ZAD-conferences
 Detta är en förteckning av de konferenser, events och användargrupper som vi i CAD har användning för och tycker är relevanta. 
 
 Listan är tänkt att vara levande och det är fritt fram att bidra. Skapa en PR :-)
